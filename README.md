@@ -1,5 +1,19 @@
 # Taller escritura protocolos para mujeres, personas trans, queer y no binares
 
+## Estructura taller
+
+14:00 - 14:10 Presentación del taller y les instructores por Emi  
+14:10 - 14:40 Presentación de Marianne (metodología de investigación y marco teórico)  
+14:40 - 14:50 Preguntas para Marianne  
+14:50 - 15:20 Presentación de Jorge (enfoques investigación en Tecnología Musical)  
+15:30 - 15:40 Preguntas para Jorge  
+15:40 - 16:10 Presentación de Emi (Normas APA y recomendaciones de estilo)  
+16:10 - 16:20 Preguntas para Emi  
+16:20 - 16:50 Presentación de Anita (Estructura y ejercicio)   
+16:50 - 17:00 Preguntas para Anita   
+17:00 - 18:00 Ejercicio por pares  
+18:00 - 19:00 Preguntas finales  
+
 ## Metodología de la investigación en música
 
 ### ¿Qué es la metodología de la investigación ?
@@ -74,7 +88,7 @@ López Cano, R y San Cristóbal Opazo, U. pp. 169.
  #### [Elegir un tema de interés](https://cpalazzo.wordpress.com/wp-content/uploads/2013/07/10blaxter-loraine-hughes-christina-y-tight-malcom-cap-3-reflexionar-sobre-los-metodos1.pdf).
  ¿Teórico, práctico, tecnológico?
 
-#### Definir propósito
+### Definir propósito
 ¿Qué quiero hacer?   
 ¿Por qué lo quiero hacer?   
 ¿Cómo se vincula con mi trabajo previo?   
@@ -88,12 +102,12 @@ En lo específico ¿cuál es mi unidad de estudio?
 ¿Quién a trabajado temas similares?  
 ¿Cuál es el aporte o distintivo de mi investigación? 
 
-####  Estado del Arte 
+###  Estado del Arte 
 - Revisar investigaciones previas y actuales. (Estado del Arte)
 - Identificar investigaciones similares, aportes de su investigación y puntos de convergencia y díalogo. 
 - Aprovechar los recurso de sus universidades. Ejemplo: [BIDIUNAM](https://www.bidi.unam.mx/)
 
-#### Recursos adicionales
+### Recursos adicionales
 
 - [JAR](https://www.jar-online.net/es)  
 - [Cómo se hace una investigación.](https://cpalazzo.wordpress.com/wp-content/uploads/2013/07/10blaxter-loraine-hughes-christina-y-tight-malcom-cap-3-reflexionar-sobre-los-metodos1.pdf ), 
@@ -267,16 +281,3 @@ c) Crítico
 
 
 
-## Estructura taller
-
-14:00 - 14:10 Presentación del taller y les instructores por Emi  
-14:10 - 14:40 Presentación de Marianne (metodología de investigación y marco teórico)  
-14:40 - 14:50 Preguntas para Marianne  
-14:50 - 15:20 Presentación de Jorge (enfoques investigación en Tecnología Musical)  
-15:30 - 15:40 Preguntas para Jorge  
-15:40 - 16:10 Presentación de Emi (Normas APA y recomendaciones de estilo)  
-16:10 - 16:20 Preguntas para Emi  
-16:20 - 16:50 Presentación de Anita (Estructura y ejercicio)   
-16:50 - 17:00 Preguntas para Anita   
-17:00 - 18:00 Ejercicio por pares  
-18:00 - 19:00 Preguntas finales  
