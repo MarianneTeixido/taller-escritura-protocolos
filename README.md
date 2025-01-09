@@ -1,65 +1,107 @@
-# Taller escritura protocolos
+# Taller escritura protocolos para mujeres, personas trans, queer y no binares
+
+## Metodología de la investigación en música
+
+¿Qué es la metodología de la investigación ?
+
+Mario Bunge en La ciencia, su método y su filosofía.
+
+### Algunas definiciones
 
 
-Mario Bunge  
-Metodología de la investigación  
+#### Epistemología
+	La define como una rama de la filosofía que estudia la investigación científica y el conocimiento científico que produce.  
 
-La considera un área de conocimiento que trata sobre cómo procede la ciencia, especialmente en la construcción y desarrollo del conocimiento.
-
-
-Epistemología
+#### Ciencia
 	
-La define como una rama de la filosofía que estudia la investigación científica y el conocimiento científico que produce.  
+    Considera que crece a partir del conocimiento común y lo rebasa.
 
-Sistemismo ontológico
+#### Metodología de la investigación
 	
-Postula que el mundo es un sistema de sistemas, es decir, que todo lo concreto es un sistema o un componente de algún sistema.
+    La considera un área de conocimiento que trata sobre cómo procede la ciencia, especialmente en la construcción y desarrollo del conocimiento.
 
-Metodología de la investigación
+#### Hipótesis
 	
-La considera un área de conocimiento que trata sobre cómo procede la ciencia, especialmente en la construcción y desarrollo del conocimiento.
-
-Hipótesis
-	
-Las considera enunciados generales de una teoría a partir de los cuales se pueden derivar proposiciones que se pueden comprobar.
-
-Ciencia
-	
-Considera que crece a partir del conocimiento común y lo rebasa.
-
-[JAR](https://www.jar-online.net/es)
-https://www.academia.edu/44207012/Investigaci%C3%B3n_art%C3%ADstica_en_tr%C3%A1nsito
-
-http://rlopezcano.blogspot.com/
-
-https://www.academia.edu/7073979/Investigaci%C3%B3n_art%C3%ADstica_en_m%C3%BAsica_Problemas_experiencias_y_propuestas
-
-BIDIUNAM
-Aprovechar los recurso de sus universidades
-Revisar investigaciones previas y actuales. (Estado del Arte)
-Identificar investigaciones similares, aportes de su investigación y puntos de convergencia y díalogo. 
-
-Uso de herramientas de IA con perspectiva crítica 
-https://www.lluiscodina.com/chatgpt-educadores/ 
-
-https://profeinfo.wordpress.com/wp-content/uploads/2019/03/manual-mardones-filosolfia-de-las-ciencias-humanas-y-sociales-1.pdf  
-
-https://cpalazzo.wordpress.com/wp-content/uploads/2013/07/10blaxter-loraine-hughes-christina-y-tight-malcom-cap-3-reflexionar-sobre-los-metodos1.pdf 
-Blaxter, L., Hughes, C. y Tight, M. (2001). Cómo se hace una investigación. Barcelona: Gedisa. 
+    Las considera enunciados generales de una teoría a partir de los cuales se pueden derivar proposiciones que se pueden comprobar.
 
 
-Identificar bases de datos y explorarlas por temas
-multiples metodologías para ser abordadas.
+## Construcción del conocimiento académico
 
-https://www.csmmurcia.com/wp-content/uploads/2022/07/MIM-I.pdf
+![Taller de Escritura](/taller-escritura-protocolos/img/DIKW.jpg)
 
-Judit Bell
-https://api.pageplace.de/preview/DT0400.9788418193637_A40125700/preview-9788418193637_A40125700.pdf 
+Propuesta de Jennifer Rowley en [The winsdom herarchy](/taller-escritura-protocolos/pdf/rowley-2007-the-wisdom-hierarchy-representations-of-the-dikw-hierarchy.pdf)
 
-https://erevistas.publicaciones.uah.es/ojs/index.php/quodlibet/article/view/779/374
+Ampliación de la propuesta de [DIKW](/taller-escritura-protocolos/pdf/knowledge-beyond-dikw-herarchy.pdf) más allá de la jerarquía, de Bratianu, C. y Benjinaru, R. (2023) 
 
-Recursos CCMMAS
-1. Según el Enfoque  
+![Taller de Escritura](/taller-escritura-protocolos/img/Captura%20de%20pantalla%202025-01-09%20123614.png)
+
+
+### Preguntas
+
+¿Cómo se construye el conocimiento en áreas del conocimiento como las Medicina, Filosofía, Física, Matemáticas, Historia, Economía?
+
+### División de las aéreas del conocimiento universitario (UNAM)
+
+#### Área 1. 
+Ciencias Físico-Matemáticas y de las Ingenierías
+
+#### Área 2.
+Ciencias Biológicas y de la Salud
+
+#### Área 3.
+Ciencias Sociales
+
+#### Área 4.
+Artes y Humanidades
+
+### Paradigmas
+
+Referencia: [Filosofía de las Ciencias Humanas y Sociales](https://doctoradohumanidades.wordpress.com/wp-content/uploads/2015/04/mardones-y-ursua-filosofc3ada-de-las-ciencias-humanas-y-sociales.pdf) por J. M. Mardones y N. Ursua. 
+
+- Empírico-analítica
+- Fenomenológica, hermenéutica y linguística.
+- Dialéctica o crítica hermeneutica. 
+- [Investigación artística](http://rlopezcano.blogspot.com/)
+
+## Preparación tema
+
+ #### [Elegir un tema de interés](https://cpalazzo.wordpress.com/wp-content/uploads/2013/07/10blaxter-loraine-hughes-christina-y-tight-malcom-cap-3-reflexionar-sobre-los-metodos1.pdf).
+- ¿Teórico, práctico, tecnológico?
+
+#### Definir propósito
+¿Qué quiero hacer?   
+¿Por qué lo quiero hacer?   
+¿Cómo se vincula con mi trabajo previo?   
+¿Por qué aplicar en el Posgrado en Música?  
+¿Cómo lo haré?  
+¿Con quiénes?  
+¿Quién me podría [asesorar](https://posgrado.unam.mx/musica/tutores/disponibilidad-de-tutores/nucleo-basico.php) y porqué esa persona?  
+¿Cuál es la pertinencia de mi investigación en el campo de la música y tecnología?
+¿Qué quiero lograr con mi investigación?
+En lo específico ¿cuál es mi unidad de estudio?
+¿Quién a trabajado temas similares?  
+¿Cuál es el aporte o distintivo de mi investigación? 
+
+####  Estado del Arte 
+- Revisar investigaciones previas y actuales. (Estado del Arte)
+- Identificar investigaciones similares, aportes de su investigación y puntos de convergencia y díalogo. 
+- Aprovechar los recurso de sus universidades. Ejemplo: [BIDIUNAM](https://www.bidi.unam.mx/)
+
+#### Recursos adicionales
+
+- [JAR](https://www.jar-online.net/es)  
+- [Uso de herramientas de IA con perspectiva crítica](https://www.lluiscodina.com/chatgpt-educadores/), Lluis Codina.
+- [Cómo se hace una investigación.](https://cpalazzo.wordpress.com/wp-content/uploads/2013/07/10blaxter-loraine-hughes-christina-y-tight-malcom-cap-3-reflexionar-sobre-los-metodos1.pdf ), 
+Blaxter, L., Hughes, C. y Tight, M. 
+- [Investigación en música](https://www.csmmurcia.com/wp-content/uploads/2022/07/MIM-I.pdf)
+- [Cómo hacer tu primer trabajo de investigación](https://api.pageplace.de/preview/DT0400.9788418193637_A40125700/preview-9788418193637_A40125700.pdf), Judit Bell
+- [Investigación artística profesional en Lationamérica](https://erevistas.publicaciones.uah.es/ojs/index.php/quodlibet/article/view/779/374), Raúl López Cano. 
+- [CMMAS e Ideas Sonicas](https://www.cmmas.org/)
+- [Cómo hacer una tesis](https://www.ucm.es/escrituraacademica/file/9-manual-td-eco), Humberto Eco.
+
+## Tipos de metodologías de investigación
+
+### Según el Enfoque  
 
 a) Cualitativa
 
@@ -76,7 +118,7 @@ c) Mixta
     Combina elementos cualitativos y cuantitativos para ofrecer una visión más completa.
     Ejemplo: Encuestas (cuantitativo) y entrevistas (cualitativo) en un mismo estudio.
 
-2. Según el Propósito  
+### Según el Propósito  
 
 a) Exploratoria  
 
@@ -103,7 +145,7 @@ e) Correlacional
     Busca establecer relaciones entre variables sin manipularlas.
     Ejemplo: Relación entre el nivel de formación en tecnología y la adopción de herramientas digitales en la música.
 
-3. Según la Estrategia  
+### Según la Estrategia  
 
 a) Estudio de Caso
 
@@ -135,7 +177,7 @@ f) Investigación Bibliográfica o Documental
     Analiza documentos, libros y publicaciones previas.
     Ejemplo: Revisión de la literatura sobre inteligencia artificial en la música.
 
-4. Según el Método de Recolección de Datos 
+### Según el Método de Recolección de Datos 
 
 a) Observacional
 
@@ -162,7 +204,7 @@ e) Análisis de Contenido
     Examina medios de comunicación, textos o producciones culturales.
     Ejemplo: Análisis de letras de canciones generadas por inteligencia artificial.
 
-5. Según el Alcance de la Investigación  
+### Según el Alcance de la Investigación  
 
 a) Básica  
 
@@ -179,7 +221,7 @@ c) Evaluativa
     Evalúa la efectividad de programas o intervenciones.
     Ejemplo: Evaluación de la aceptación de software de composición basado en IA.
 
-6. Según el Paradigma
+### Según el Paradigma
 
 a) Positivista
 
@@ -197,16 +239,23 @@ c) Crítico
     Ejemplo: Estudio crítico sobre la accesibilidad de tecnologías avanzadas para músicos de comunidades marginadas.
 
 
+## Ejercicio
 
+Armar la estructura metodológica de mi investigación (Protocolo de investigación). 
 
-14:00 - 14:10 Presentación del taller y les instructores por Emi
-14:10 - 14:40 Presentación de Marianne (metodología de investigación y marco teórico)
-14:40 - 14:50 Preguntas para Marianne
-14:50 - 15:20 Presentación de Jorge (enfoques investigación en Tecnología Musical)
-15:30 - 15:40 Preguntas para Jorge
-15:40 - 16:10 Presentación de Emi (Normas APA y recomendaciones de estilo)
-16:10 - 16:20 Preguntas para Emi
-16:20 - 16:50 Presentación de Anita (Estructura y ejercicio)
-16:50 - 17:00 Preguntas para Anita 
-17:00 - 18:00 Ejercicio por pares
-18:00 - 19:00 Preguntas finales
+- Abre la convocatoria del Posgrado en [Maestría](https://posgrado.unam.mx/musica/admision/guia-protocolo-maestria.php) o [Doctorado](https://posgrado.unam.mx/musica/admision/guia-protocolo-doctorado.php) segun sea el caso. 
+- En un documento de texto copia los puntos sugeridos en la guía para realizar el protocolo. 
+
+## Estructura taller
+
+14:00 - 14:10 Presentación del taller y les instructores por Emi  
+14:10 - 14:40 Presentación de Marianne (metodología de investigación y marco teórico)  
+14:40 - 14:50 Preguntas para Marianne  
+14:50 - 15:20 Presentación de Jorge (enfoques investigación en Tecnología Musical)  
+15:30 - 15:40 Preguntas para Jorge  
+15:40 - 16:10 Presentación de Emi (Normas APA y recomendaciones de estilo)  
+16:10 - 16:20 Preguntas para Emi  
+16:20 - 16:50 Presentación de Anita (Estructura y ejercicio)   
+16:50 - 17:00 Preguntas para Anita   
+17:00 - 18:00 Ejercicio por pares  
+18:00 - 19:00 Preguntas finales  
