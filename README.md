@@ -2,9 +2,9 @@
 
 ## Metodología de la investigación en música
 
-¿Qué es la metodología de la investigación ?
+### ¿Qué es la metodología de la investigación ?
 
-Mario Bunge en La ciencia, su método y su filosofía.
+Mario Bunge en [La ciencia, su método y su filosofía.](https://posgrado.unam.mx/musica/lecturas/LecturaIntroduccionInvestigacionMusical/epistemologia/Mario-Bunge-la-Ciencia-su-Metodo-y-Filosofia.pdf) propone lo siguiente:
 
 ### Algunas definiciones
 
@@ -27,13 +27,13 @@ Mario Bunge en La ciencia, su método y su filosofía.
 
 ## Construcción del conocimiento académico
 
-![Taller de Escritura](/taller-escritura-protocolos/img/DIKW.jpg)
+![Taller de Escritura](img/DIKW.jpg)
 
 Propuesta de Jennifer Rowley en [The winsdom herarchy](/taller-escritura-protocolos/pdf/rowley-2007-the-wisdom-hierarchy-representations-of-the-dikw-hierarchy.pdf)
 
 Ampliación de la propuesta de [DIKW](/taller-escritura-protocolos/pdf/knowledge-beyond-dikw-herarchy.pdf) más allá de la jerarquía, de Bratianu, C. y Benjinaru, R. (2023) 
 
-![Taller de Escritura](/taller-escritura-protocolos/img/Captura%20de%20pantalla%202025-01-09%20123614.png)
+![Taller de Escritura](/img/Captura%20de%20pantalla%202025-01-09%20123614.png)
 
 
 ### Preguntas
@@ -63,10 +63,16 @@ Referencia: [Filosofía de las Ciencias Humanas y Sociales](https://doctoradohum
 - Dialéctica o crítica hermeneutica. 
 - [Investigación artística](http://rlopezcano.blogspot.com/)
 
+
+![Bucle](img/bucle.png)
+López Cano, R y San Cristóbal Opazo, U. pp. 169. 
+
+
+
 ## Preparación tema
 
  #### [Elegir un tema de interés](https://cpalazzo.wordpress.com/wp-content/uploads/2013/07/10blaxter-loraine-hughes-christina-y-tight-malcom-cap-3-reflexionar-sobre-los-metodos1.pdf).
-- ¿Teórico, práctico, tecnológico?
+ ¿Teórico, práctico, tecnológico?
 
 #### Definir propósito
 ¿Qué quiero hacer?   
@@ -76,9 +82,9 @@ Referencia: [Filosofía de las Ciencias Humanas y Sociales](https://doctoradohum
 ¿Cómo lo haré?  
 ¿Con quiénes?  
 ¿Quién me podría [asesorar](https://posgrado.unam.mx/musica/tutores/disponibilidad-de-tutores/nucleo-basico.php) y porqué esa persona?  
-¿Cuál es la pertinencia de mi investigación en el campo de la música y tecnología?
-¿Qué quiero lograr con mi investigación?
-En lo específico ¿cuál es mi unidad de estudio?
+¿Cuál es la pertinencia de mi investigación en el campo de la música y tecnología?  
+¿Qué quiero lograr con mi investigación?  
+En lo específico ¿cuál es mi unidad de estudio?  
 ¿Quién a trabajado temas similares?  
 ¿Cuál es el aporte o distintivo de mi investigación? 
 
@@ -90,7 +96,6 @@ En lo específico ¿cuál es mi unidad de estudio?
 #### Recursos adicionales
 
 - [JAR](https://www.jar-online.net/es)  
-- [Uso de herramientas de IA con perspectiva crítica](https://www.lluiscodina.com/chatgpt-educadores/), Lluis Codina.
 - [Cómo se hace una investigación.](https://cpalazzo.wordpress.com/wp-content/uploads/2013/07/10blaxter-loraine-hughes-christina-y-tight-malcom-cap-3-reflexionar-sobre-los-metodos1.pdf ), 
 Blaxter, L., Hughes, C. y Tight, M. 
 - [Investigación en música](https://www.csmmurcia.com/wp-content/uploads/2022/07/MIM-I.pdf)
@@ -98,6 +103,26 @@ Blaxter, L., Hughes, C. y Tight, M.
 - [Investigación artística profesional en Lationamérica](https://erevistas.publicaciones.uah.es/ojs/index.php/quodlibet/article/view/779/374), Raúl López Cano. 
 - [CMMAS e Ideas Sonicas](https://www.cmmas.org/)
 - [Cómo hacer una tesis](https://www.ucm.es/escrituraacademica/file/9-manual-td-eco), Humberto Eco.
+ 
+
+__Consejo:__ Evita en la medida de lo posible el uso de ChatGPT con el fin de darle más autenticidad a tu proyecto. Si lo ocupas, dale preferencia a la mejora de la redacción. Si es para expandir tus ideas toma en consideración la perspectiva crítica propuesta por Lluis Codina sobre el [uso de herramientas de IA con perspectiva crítica](https://www.lluiscodina.com/chatgpt-educadores/)
+
+![Diegrama GPT](/img/modelo.png)
+
+## Ejercicio
+
+Armar la estructura metodológica de mi investigación (Protocolo de investigación). 
+
+- Abre la convocatoria del Posgrado en [Maestría](https://posgrado.unam.mx/musica/admision/guia-protocolo-maestria.php) o [Doctorado](https://posgrado.unam.mx/musica/admision/guia-protocolo-doctorado.php) según sea el caso. 
+- En un documento de texto copia los puntos sugeridos en la guía para realizar el protocolo. 
+- Comenzar a llenar con lluvia de ideas y esbozos de las partes en las que se tenga mayor claridad. 
+- Deja pasar unas horas o un par de días y vuelve a tu documento. 
+- En lo que el tiempo pasa busca inspiración, lee, visita museos, ve a conciertos, platica con tus amigas y personas cercanas sobre tu proyecto. 
+- Aprovecha los momento espontáneos de ideas y anótalas en un post-it, blog de notas o directo en tu archivo de texto. No te preocupes por la estructura, gramática o errores de dedo solo escribe. 
+- Anota en tu calendario espacios de trabajo en los que sólo te concentres, aunque sea por una o dos horas, exclusivamente en escribir. 
+- Con al menos una semana de anticipación, ingresa a la plataforma y realiza la carga de los documentos. 
+
+__Recuerda: El documento más importante, después de tu título o acta de grado es un Protocolo de Investigación.__
 
 ## Tipos de metodologías de investigación
 
@@ -239,12 +264,8 @@ c) Crítico
     Ejemplo: Estudio crítico sobre la accesibilidad de tecnologías avanzadas para músicos de comunidades marginadas.
 
 
-## Ejercicio
 
-Armar la estructura metodológica de mi investigación (Protocolo de investigación). 
 
-- Abre la convocatoria del Posgrado en [Maestría](https://posgrado.unam.mx/musica/admision/guia-protocolo-maestria.php) o [Doctorado](https://posgrado.unam.mx/musica/admision/guia-protocolo-doctorado.php) segun sea el caso. 
-- En un documento de texto copia los puntos sugeridos en la guía para realizar el protocolo. 
 
 ## Estructura taller
 
