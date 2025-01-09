@@ -28,15 +28,17 @@ Mario Bunge en [La ciencia, su método y su filosofía.](https://posgrado.unam.m
 
 #### Ciencia
 	
-    Considera que crece a partir del conocimiento común y lo rebasa.
+    Considera que crece a partir del conocimiento común y lo rebasa. Sistema de ideas en desarrollo que utiliza el razonamiento lógico y la verificación empírica para generar, organizar y sistematizar el conocimiento sobre la realidad.
 
 #### Metodología de la investigación
 	
-    La considera un área de conocimiento que trata sobre cómo procede la ciencia, especialmente en la construcción y desarrollo del conocimiento.
+    Área de conocimiento que trata sobre cómo procede la ciencia, especialmente en la construcción y desarrollo del conocimiento.
 
 #### Hipótesis
 	
-    Las considera enunciados generales de una teoría a partir de los cuales se pueden derivar proposiciones que se pueden comprobar.
+    Enunciados generales de una teoría a partir de los cuales se pueden derivar proposiciones que se pueden comprobar.
+
+
 
 
 ## Construcción del conocimiento académico
