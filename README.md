@@ -1,19 +1,5 @@
 # Taller escritura protocolos para mujeres, personas trans, queer y no binares
 
-## Estructura taller
-
-14:00 - 14:10 Presentación del taller y les instructores por Emi  
-14:10 - 14:40 Presentación de Marianne (metodología de investigación y marco teórico)  
-14:40 - 14:50 Preguntas para Marianne  
-14:50 - 15:20 Presentación de Jorge (enfoques investigación en Tecnología Musical)  
-15:30 - 15:40 Preguntas para Jorge  
-15:40 - 16:10 Presentación de Emi (Normas APA y recomendaciones de estilo)  
-16:10 - 16:20 Preguntas para Emi  
-16:20 - 16:50 Presentación de Anita (Estructura y ejercicio)   
-16:50 - 17:00 Preguntas para Anita   
-17:00 - 18:00 Ejercicio por pares  
-18:00 - 19:00 Preguntas finales  
-
 ## Metodología de la investigación en música
 
 ### ¿Qué es la metodología de la investigación ?
